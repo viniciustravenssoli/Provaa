@@ -44,3 +44,4 @@ public class FuncionarioController : ControllerBase
         return Ok(funcionarios);
     }
 }
+
