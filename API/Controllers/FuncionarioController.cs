@@ -16,7 +16,7 @@ public class FuncionarioController : ControllerBase
     }
 
     [HttpPost]
-    [Route("create")]
+    [Route("cadastrar")]
     public async Task<IActionResult> Criar([FromBody] Funcionario funcionario)
     {
         try

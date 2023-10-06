@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Desktop\\Provahoje\\Provaa\\API\\API.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\provahoje\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Desktop\\Provahoje\\Provaa\\API\\API.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\provahoje\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Provahoje\\Provaa\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\provahoje\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Aluno\\Desktop\\Provahoje\\Provaa\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\provahoje\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Desktop\\Provahoje\\Provaa\\API\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\provahoje\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

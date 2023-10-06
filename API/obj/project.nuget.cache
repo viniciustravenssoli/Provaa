@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WycHOw2lt0HRkncCqsatdDGMQ3JRwylrkt0gkhs4q9NLbS2dNYhbnDtLtPB4ukoy6jAiqqcHx+85eIWZrdAsZw==",
+  "dgSpecHash": "79xKcKP8Y8JNHNvHkXpGjYMR+PqcWRxs1G3WXZ93SJTbIAkN9YB6f5YZDG37W3wJrT5ps3HNQSnWuYjF3YEEZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\Provahoje\\Provaa\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\provahoje\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.22\\microsoft.data.sqlite.core.6.0.22.nupkg.sha512",
